@@ -1,0 +1,92 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.nav-link {
+    color: blue;
+    font-size: 20px;
+
+}
+.btn-custom {
+    padding: 10px 50px;
+    border-radius: 20px;
+    font-size: 20px;
+    gap: 20px;
+}
+.left a {
+  margin-left: 280px;
+}
+.bg {
+    background-color: blue;
+    width: 100%;
+    height: 120vh;
+}
+.one  {
+    color: #FFFFFF;
+}
+.one p {
+    font-size: 20px;
+    font-weight: 500;
+}
+.one a {
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: 600;
+}
+.first {
+    font-size: 72px; 
+}
+.second {
+    display: flex;
+}
+.one1 {
+    padding: 20px 20px;
+}
+.btn-custom1 {
+    padding: 10px 20px;
+    border-radius: 30px;
+    border-radius: 1px solid;
+    color: #000;
+    background-color: #FFFF00;
+}
+.btn-custom1:hover {
+    padding: 10px 20px;
+    border-radius: 30px;
+    border-radius: 1px solid;
+    color: #000;
+    background-color: #FFFF00;
+}
+.hi {
+    background-color: #FFFFFF;
+    width: 100%;
+    height: auto;
+    text-align: center;
+    color: #000;
+}
+.hi p {
+    color: #000;
+    font-size: 20px;
+}
+.two {
+    background-color: whitesmoke;
+    width: 100%;
+    height: auto;
+}
+.main {
+    margin-top: 200px;
+}
+.head1 {
+    font-size: 70px;
+    margin-top: -50px;
+}
+.para {
+    color: #000;
+    font-size: 20px;
+    font-weight: 500;
+}
+.line1{
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: 500;
+}
